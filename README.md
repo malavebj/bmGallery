@@ -1,5 +1,5 @@
 # bmgallery
-Galeria de imágenes con buscador y selector dinámico de prefewrencias (Favoritos). Se integra servicio API de Pexels.com, con el uso de vue-axios para servir imágenes gratuitas. También, se aplica el uso de localStorage de Vue 3.
+Galeria de imágenes con buscador y selector dinámico de preferencias (Favoritos). Se integra servicio API de Pexels.com, con el uso de vue-axios para servir imágenes gratuitas. También, se aplica el uso de localStorage de Vue 3.
 
 ## Project setup
 ```
